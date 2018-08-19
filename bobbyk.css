@@ -1,11 +1,9 @@
 /*colors
-
-Dark Imperial Blue  #0B3C5D 
+Dark Imperial Blue  #0B3C5D
 Platinum 			#E9E9E9
 Onyx 				#373737
 Pale Silver			#C6C5B9
 Deep Space Sparkle	#415A77
-
 */
 
 html,body{
@@ -41,8 +39,8 @@ h1 {
 }
 
 img{
-  max-width: 100%; 
-  display: block; 
+  max-width: 100%;
+  display: block;
   height: auto;
   margin: auto;
 }
@@ -166,7 +164,3 @@ hr {
 	font-size: .75em;
 	color: #373737;
 }
-
-
-
-
