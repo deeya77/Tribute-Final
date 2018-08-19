@@ -1,0 +1,172 @@
+/*colors
+
+Dark Imperial Blue  #0B3C5D 
+Platinum 			#E9E9E9
+Onyx 				#373737
+Pale Silver			#C6C5B9
+Deep Space Sparkle	#415A77
+
+*/
+
+html,body{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-align:left;
+  min-width:250px;
+  color: #E9E9E9;
+  background: #0B3C5D;
+}
+
+#main{
+  margin:30px auto;
+  padding:15px;
+  border:0px solid;
+  border-radius:10px;
+  background:#415A77;
+  width: 90%;
+}
+
+#header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 3em;
+	margin-bottom: 5px;
+}
+
+#tagline {
+  font-size: 2em;
+  font-style: italic;
+
+}
+
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+
+#img-div{
+  margin: 30px auto;
+  width:70%;
+  border:5px solid #E9E9E9;
+  border-radius:10px;
+  background:415a77;
+  box-shadow: 5px 5px 30px 5px #373737;
+}
+
+#img-caption{
+  margin:5px;
+  font-size: 1em;
+  text-align: left;
+}
+
+blockquote{
+  font-style: italic;
+  font-size: 1.75em;
+  text-align: justify;
+  width: 70%;
+  margin: 25px auto;
+  color: #002c49;
+}
+
+#tribute-info {
+	padding: 0 20px;
+}
+
+#tribute-info p {
+	width: 75%;
+	margin: auto;
+}
+
+h2 {
+	text-style: italic;
+	text-align: center;
+	font-weight: normal;
+
+}
+
+#quotes {
+column-count: 2;
+column-gap: 50px;
+column-fill: balance;
+border: 2px solid grey;
+/*box-shadow: inset 0 12px 12px -12px ragb(0, 0, 0, 0.5);*/
+padding: 30px;
+column-rule: 2px solid grey;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.rfk-quotes {
+	-webkit-column-break-inside: avoid;
+	margin: auto auto;
+}
+
+.short {
+	font: italic 1.3em/1.5em "Palatino Linotype", serif;
+	width: 75%;
+	background: #e9e9e9;
+	color: #0B3C5D;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.long {
+	font: light 1em/1.2em arial, sans-serif;
+	text-align: justify;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+hr {
+	width: 50%;
+}
+
+#tribute-link {
+	background-color: #0B3C5D;
+    border: none;
+    color: #E9E9E9;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;*/
+    border-radius: 10px;
+    width: 25%;
+
+}
+
+#links {
+	text-align: center;
+}
+
+
+#speeches {
+	background-color: #0B3C5D;
+    border: none;
+    color: #E9E9E9;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;*/
+    border-radius: 10px;
+    width: 25%;
+}
+
+#copyright {
+	font-size: .75em;
+	color: #373737;
+}
+
+
+
+
